@@ -1,0 +1,22 @@
+﻿
+<Window x:Class= "C:\Users\Asus\source\repos\Group2phase2-EduMorh"  
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EDUMORH" Height="685" Width="1013">
+    <Grid Margin="0,0,-4722,-3825">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="_Course">
+                <MenuItem Header="_Register" Click="RegisterCourse_Click"/>
+                <MenuItem Header="_View" Click="ViewCourses_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Cart" Click="ViewCart_Click"/>
+            <MenuItem Header="_Assessment" Click="TakeAssessment_Click"/>
+            <MenuItem Header="_Certification" Click="ViewCertifications_Click"/>
+        </Menu>
+    </Grid>
+</Window>
