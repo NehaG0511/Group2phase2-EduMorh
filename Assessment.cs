@@ -1,5 +1,5 @@
 ﻿
-public class Assessment
+public class Assessment //course assessment
 {
     public int AssessmentId { get; set; }
     public int CourseId { get; set; }
