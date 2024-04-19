@@ -10,7 +10,7 @@
         </Grid.RowDefinitions>
 
         <Menu>
-            <MenuItem Header="_Course">
+            <MenuItem Header="_Course">  //adding features
                 <MenuItem Header="_Register" Click="RegisterCourse_Click"/>
                 <MenuItem Header="_View" Click="ViewCourses_Click"/>
             </MenuItem>
