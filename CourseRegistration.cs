@@ -1,4 +1,4 @@
-﻿< Window x: Class = "EDUMORH.CourseRegistration"
+﻿< Window x: Class = "EDUMORH.CourseRegistration" //course registration
         xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns: x = "http://schemas.microsoft.com/winfx/2006/xaml"
         Title = "Course Registration" Height = "300" Width = "400" >
