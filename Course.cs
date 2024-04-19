@@ -1,4 +1,4 @@
-﻿public class Course
+﻿public class Course  //course specification
 {
     public int CourseId { get; set; }
     public string CourseName { get; set; }
