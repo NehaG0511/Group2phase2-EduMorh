@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Group2phase2_EduMorh
+namespace Group2phase2_EduMorh //for user view interface
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
